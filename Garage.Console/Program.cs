@@ -4,6 +4,8 @@ using Garage.ConsoleApp.Logging;
 using Garage.Vehicles;
 using VehicleGarage = Garage.Parking.Garage;
 
+//git test
+
 try
 {
     Vehicle[] parkedVehicles =
